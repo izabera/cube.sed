@@ -1,4 +1,4 @@
-#!/usr/bin/sed -f
+#!/usr/bin/env -S sed -f
 
 # internal representation (largely speffz + weird extra characters):
 #     AaB
